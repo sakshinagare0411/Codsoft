@@ -1,2 +1,3 @@
 # Codsoft
 Internship Task
+During my internship at CodSoft Company, I was tasked with developing a personal portfolio website using HTML, CSS, and JavaScript. This portfolio comprises several key sections: a header with navigation links, an 'About Me' section detailing my background and skills, a showcase of my technical competencies in the 'Skills' section, highlights of my noteworthy projects, provision of a downloadable resume, and a 'Contact Me' section to facilitate communication. This website serves as a comprehensive display of my professional profile, aiming to present my skills, experiences, and projects in an engaging and informative manner. The project code is available on GitHub as part of my internship experience at CodSoft Company.
